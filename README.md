@@ -22,3 +22,10 @@ Jupyter Notebook for experimentation
 
 <H1>Logistic Regression</H1>
 <p>Logistic Regression is a supervised machine learning algorithm used for binary classification (e.g., Yes/No, 0/1, Spam/Not Spam). It predicts the probability that a given input belongs to a particular category using the logistic (sigmoid) function.</p>
+<h1>Types</h1>
+<p>Types of Logistic Regression
+Binary Logistic Regression: Classifies into two categories (e.g., pass/fail, default/not default).
+
+Multinomial Logistic Regression: Classifies into more than two categories (e.g., predicting weather as sunny, cloudy, or rainy).
+
+Ordinal Logistic Regression: Used when the categories have a meaningful order (e.g., low, medium, high).</p>
