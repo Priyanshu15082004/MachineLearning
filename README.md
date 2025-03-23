@@ -19,3 +19,6 @@ Scikit-Learn for ML models
 Matplotlib & Seaborn for visualization
 
 Jupyter Notebook for experimentation
+
+<H1>Logistic Regression</H1>
+<p>Logistic Regression is a supervised machine learning algorithm used for binary classification (e.g., Yes/No, 0/1, Spam/Not Spam). It predicts the probability that a given input belongs to a particular category using the logistic (sigmoid) function.</p>
