@@ -10,7 +10,7 @@ Reinforcement Learning - The model learns through rewards and penalties (e.g., r
 
 🛠️ Technologies Used
 
-Python
+Python 
 
 Pandas & NumPy for data manipulation
 
@@ -19,7 +19,7 @@ Scikit-Learn for ML models
 Matplotlib & Seaborn for visualization
 
 Jupyter Notebook for experimentation
-
+Power Bi for visualization
 <H1>Logistic Regression</H1>
 <p>Logistic Regression is a supervised machine learning algorithm used for binary classification (e.g., Yes/No, 0/1, Spam/Not Spam). It predicts the probability that a given input belongs to a particular category using the logistic (sigmoid) function.</p>
 
