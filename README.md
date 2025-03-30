@@ -30,3 +30,6 @@ Multinomial Logistic Regression: Classifies into more than two categories (e.g.,
 
 Ordinal Logistic Regression: Used when the categories have a meaningful order (e.g., low, medium, high).</p>
 Now I am tried multiple health disease prediction system using Machine learning and techniques
+Logistic Regression (for binary classification)
+
+Decision Trees & Random Forest (for interpretable models
