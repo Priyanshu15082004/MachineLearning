@@ -34,5 +34,5 @@ Logistic Regression (for binary classification)
 
 Decision Trees & Random Forest (for interpretable models
 Support Vector Machine (SVM) (for high-dimensional data)<br>
-Now I created ML project
+Now I created ML project scikit learn
 
