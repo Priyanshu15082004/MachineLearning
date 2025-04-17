@@ -33,6 +33,6 @@ Now I am tried multiple health disease prediction system using Machine learning 
 Logistic Regression (for binary classification)
 
 Decision Trees & Random Forest (for interpretable models
-Support Vector Machine (SVM) (for high-dimensional data)<br>
+Support Vector Machine (SVM) ( for high-dimensional data )<br>
 Now I created ML project using scikit learn 
 
