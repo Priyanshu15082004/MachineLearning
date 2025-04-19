@@ -32,7 +32,7 @@ Ordinal Logistic Regression: Used when the categories have a meaningful order (e
 Now I am tried multiple health disease prediction system using Machine learning and techniques
 Logistic Regression (for binary classification)
 
-Decision Trees & Random Forest (for interpretable models
+Decision Trees & Random Forest (for interpretable models)
 Support Vector Machine (SVM) ( for high-dimensional data )<br>
 Now I created ML project using scikit learn 
 
