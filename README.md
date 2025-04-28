@@ -36,3 +36,4 @@ Decision Trees & Random Forest (for interpretable models)
 Support Vector Machine (SVM) ( for high-dimensional data )<br>
 Now I created ML project using scikit learn 
 
+make project on movie recommender
