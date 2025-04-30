@@ -2,6 +2,7 @@ Machine Learning (ML) is a subset of Artificial Intelligence (AI) that enables s
 
 Types of Machine Learning:
 
+ 
 Supervised Learning - The model learns from labeled data (e.g., classification, regression).
 
 Unsupervised Learning - The model identifies patterns in unlabeled data (e.g., clustering, anomaly detection).
